@@ -18,3 +18,8 @@ This report reads data in csv format. The data used in this report is the NAV of
 # Usability 
 When using this report, upload csv data in the following format: 
 ![image](https://user-images.githubusercontent.com/63683699/150696059-4a5bc7b2-76b4-4e47-9ae3-729e86cec9f3.png)
+
+# Contributors
+Jacob Honig
+jacobdhonig@gmail.com
+www.linkedin.com/jacob-honig/
